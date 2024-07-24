@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewModelLesson</string>
+    <string name="stafflist">StaffList</string>
+    <string name="add_staff">Add Staff</string>
+    <string name="staff_id">Staff Id:</string>
+    <string name="staff_name">Staff Name:</string>
+    <string name="birthdate">BirthDate:</string>
+    <string name="salary">Salary:</string>
+</resources>
